@@ -39,3 +39,4 @@ This Solidity smart contract facilitates a collateralized loan system where a le
 
 ## License
 This project is licensed under the MIT License.
+0x7c238c525749726B900EE6321C40D56257b6B849
